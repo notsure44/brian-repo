@@ -33,3 +33,4 @@ feels = weather_dictionary["current"]["feelslike_f"]
 print("The temperature in %s is %s F"%(city, temp))
 print("The wind in %s is %s mph"%(city, wind))
 print("Feels like the temperature in %s is %s F"%(city, feels))
+#Faaag
