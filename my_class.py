@@ -41,4 +41,3 @@ Shaun.talk_shit()
 gaybie.talk_shit()
 gaybie.show_penis()
 Brian.show_penis()
-
